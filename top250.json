@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "title": "Баллада о солдате",
+        "rating": "8.241",
+        "year": 1959,
+        "budget": 24423,
+        "gross": 35020,
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_46019.jpg",
+        "position": 100
+    },
+    {
+        "id": 2,
+        "title": "Хоббит: Нежданное путешествие",
+        "rating": "8.062",
+        "year": 2012,
+        "budget": 180000000,
+        "gross": 1021103568,
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_278522.jpg",
+        "position": 101
+    },
+    {
+        "id": 3,
+        "title": "Свидетель обвинения",
+        "rating": "8.143",
+        "year": 1957,
+        "budget": 3000000,
+        "gross": 3753123,
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_489.jpg",
+        "position": 102
+    },
+    {
+        "id": 4,
+        "title": "Брат",
+        "rating": "8.223",
+        "year": 1997,
+        "budget": 345432,
+        "gross": 565756,
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_41519.jpg",
+        "position": 103
+    },
+    {
+        "id": 5,
+        "title": "Малышка на миллион",
+        "rating": "8.076",
+        "year": 2004,
+        "budget": 30000000,
+        "gross": 216763646,
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_81297.jpg",
+        "position": 104
+    },
+    {
+        "id": 6,
+        "title": "Шерлок Холмс и доктор Ватсон: Кровавая надпись (ТВ)",
+        "rating": "8.420",
+        "year": 1979,
+        "budget": 140000000,
+        "gross": 305413918,
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_77265.jpg",
+        "position": 105
+    },
+    {
+        "id": 7,
+        "title": "Мальчик в полосатой пижаме",
+        "rating": "8.174",
+        "year": 2008,
+        "budget": 12500000,
+        "gross": 40416563,
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_281251.jpg",
+        "position": 106
+    },
+    {
+        "id": 8,
+        "title": "Девчата",
+        "rating": "8.357",
+        "year": 1962,
+        "budget": 23432423,
+        "gross": 3534543543,
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_44168.jpg",
+        "position": 107
+    },
+    {
+        "id": 9,
+        "title": "Общество мертвых поэтов",
+        "rating": "8.207",
+        "year": 1989,
+        "budget": 16400000,
+        "gross": 235860116,
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4996.jpg",
+        "position": 108
+    },
+    {
+        "id": 10,
+        "title": "Одиннадцать друзей Оушена",
+        "rating": "8.100",
+        "year": 2001,
+        "budget": 85000000,
+        "gross": 450717150,
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_770.jpg",
+        "position": 109
+    }
+]

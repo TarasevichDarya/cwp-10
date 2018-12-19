@@ -1,0 +1,18 @@
+node index.js
+get 127.0.0.1:3000/api/films/readall
+post 127.0.0.1:3000/api/films/create  (создаём новое, айдишник не указываем, так как сервер его сам генерирует)
+ {
+        "title": "Хоббит: Нежданное путешествие",
+        "rating": "8.062",
+        "year": 2012,
+        "budget": 180000000,
+        "gross": 1021103568,
+        "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_278522.jpg",
+        "position": 101
+    }
+get 127.0.0.1:3000/api/films/readall смотрим, что добавилось
+post 127.0.0.1:3000/api/films/delete (айдишник берём из списка выведенных)
+ {
+        "id": 1540800251968
+        
+    }
